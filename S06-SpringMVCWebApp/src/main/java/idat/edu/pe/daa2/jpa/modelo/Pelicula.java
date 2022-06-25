@@ -1,7 +1,7 @@
 package idat.edu.pe.daa2.jpa.modelo;
 
 import java.io.Serializable;
-import java.util.Objects;
+
 
 import javax.persistence.Basic;
 import javax.persistence.Column;
